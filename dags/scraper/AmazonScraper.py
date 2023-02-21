@@ -101,7 +101,7 @@ class AmazonScraper:
 
         except Exception as e:
             print(e)
-            return 0 
+            return 0  # Return 0 if there are any errors
     
 
   
